@@ -20,9 +20,9 @@ TARGET = RTOS_4
 # building variables
 ######################################
 # debug build?
-DEBUG = 1
+DEBUG = 0
 # optimization
-OPT = -Og
+OPT = -g3
 
 
 #######################################
